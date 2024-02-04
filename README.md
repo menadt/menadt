@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning football Analytics (in spanish fútbol). 
+- 🌱 I’m currently learning football (soccer) Analytics. 
 
 <!--
 **menadt/menadt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
