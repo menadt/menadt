@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning football (soccer) Analytics. 
+- 👯 I’m looking to collaborate on projects where I can contribute to growth and, at the same time, learn and immerse myself in the IT job world.
 
 <!--
 **menadt/menadt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
